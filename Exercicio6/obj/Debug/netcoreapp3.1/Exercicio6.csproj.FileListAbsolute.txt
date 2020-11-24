@@ -1,0 +1,13 @@
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.exe
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.deps.json
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.runtimeconfig.json
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.runtimeconfig.dev.json
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.dll
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.pdb
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.csprojAssemblyReference.cache
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.AssemblyInfoInputs.cache
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.AssemblyInfo.cs
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.dll
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.pdb
+C:\Users\mrodr\Documents\C#\ExerciciosFixacao23-11\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.genruntimeconfig.cache
