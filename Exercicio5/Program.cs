@@ -11,11 +11,11 @@ namespace Exercicio5
             Console.WriteLine("Tabuada de 1 a 10");
             Console.WriteLine("-----------------");
 
-            for (var i = 1; i < 11; i++)
+            for (var i = 1; i <= 10; i++)
             {
                 Console.WriteLine($"Tabuada do {i}");
 
-                for (var cont = 1; cont < 11; cont++)
+                for (var cont = 1; cont <= 10; cont++)
                 {
                     multiplicacao = i * cont;
                     Console.WriteLine ($"{i} * {cont} = {multiplicacao}");
